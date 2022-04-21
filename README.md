@@ -32,7 +32,7 @@ wss://ws-mainnet.hoosmartchain.com
 https://http-testnet.hoosmartchain.com
 wss://ws-testnet.hoosmartchain.com
 
-https://http-mainnet2.hoosmartchain.com
+https://http-mainnet2.hoosmartchain.com     archive node
 wss://ws-mainnet2.hoosmartchain.com
 https://http-testnet2.hoosmartchain.com
 wss://ws-testnet2.hoosmartchain.com 
